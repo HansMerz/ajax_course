@@ -1,0 +1,12 @@
+.container{
+	margin-left: -15%;
+}
+.btn:focus{
+	outline: 0 !important;
+}
+div#wrapper{
+	position: absolute;
+	top: 40px;
+	padding-left: 25%;
+	font-size: 16px;
+}
